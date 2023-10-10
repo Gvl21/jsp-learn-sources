@@ -1,0 +1,23 @@
+INDEX VERSION 1.134
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2927870490.index
+\02_servlet\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2998776130.index
+\06_implict_object_scope\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4033005384.index
+\05_include_directive_tag\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\866822871.index
+\05_include_directive_tag\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1907603623.index
+\04_directive_tag\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4194888330.index
+\08_session_cookie\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1825508986.index
+\06_implict_object_scope\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2024504072.index
+\03_script_tag_jsp\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2078497236.index
+\04_directive_tag\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1469003494.index
+\08_session_cookie\src\main\java
+C:\Users\thorn\Documents\Workspace\Eclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3787422341.index
+\07_redirect_dispatcher\src\main\java
