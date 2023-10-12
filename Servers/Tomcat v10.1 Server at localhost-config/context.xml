@@ -25,5 +25,20 @@
     <!-- Uncomment this to enable session persistence across Tomcat restarts -->
     <!--
     <Manager pathname="SESSIONS.ser" />
+    
     -->
+    <Resource 
+		name="java/MySQLDB" 
+		auth="container" 
+		type="javax.sql.DataSource" 
+		factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+		driverClassName="com.mysql.cj.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/develop_sql"
+		username="root"
+		password="12345"
+		initialSize="10"
+		minIdle="10"
+		maxActive="20"
+		maxIdle="20"
+		/> 
 </Context>
